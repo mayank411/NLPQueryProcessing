@@ -1,0 +1,88 @@
+1.) Line 1, column 62, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+Suggestion: Almanac; Almanacs
+...lfway through his career, Wisden Cricketers' Almanack ranked him the second greatest Test batsman ...
+                                                ^^^^^^^^                                             
+
+2.) Line 1, column 242, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+...behind Viv Richards.[6] Later in his career, Tendulkar was a part of the Indian team that won the 2...
+                                                ^^^^^^^^^                                             
+
+3.) Line 1, column 397, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...s for India.[7] He had previously been named "Player of the Tournament" at the 2003 edition...
+                                                ^                                             
+More info: https://en.wikipedia.org/wiki/Smart_quote#Electronic_documents
+
+4.) Line 1, column 422, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...eviously been named "Player of the Tournament" at the 2003 edition of the tournament, held ...
+                                                ^                                             
+More info: https://en.wikipedia.org/wiki/Smart_quote#Electronic_documents
+
+5.) Line 1, column 623, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+Suggestion: Almanac; Almanacs
+... the 150th anniversary of Wisden Cricketers' Almanack.[8][9][10]  Tendulkar received the Arjuna Aw...
+                                                ^^^^^^^^                                             
+
+6.) Line 3, column 1, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+...y of Wisden Cricketers' Almanack.[8][9][10]  Tendulkar received the Arjuna Award in 1994 for his ou...
+                                                ^^^^^^^^^                                             
+
+7.) Line 3, column 104, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+Suggestion: Keel; Kiel
+...nding sporting achievement, the Rajiv Gandhi Khel Ratna award in 1997, India's highest sportin...
+                                                ^^^^                                             
+
+8.) Line 3, column 109, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+Suggestion: Patna
+... sporting achievement, the Rajiv Gandhi Khel Ratna award in 1997, India's highest sporting hono...
+                                                ^^^^^                                             
+
+9.) Line 3, column 177, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+Suggestion: SSRI; Sari; Shari; HRI; Sheri; Seri; Shi; Sri
+...dia's highest sporting honour, and the Padma Shri and Padma Vibhushan awards in 1999 and 2008,...
+                                                ^^^^                                             
+
+10.) Line 3, column 186, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+Suggestion: Padmé; Palma
+...hest sporting honour, and the Padma Shri and Padma Vibhushan awards in 1999 and 2008, respectiv...
+                                                ^^^^^                                             
+
+11.) Line 3, column 192, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+...porting honour, and the Padma Shri and Padma Vibhushan awards in 1999 and 2008, respectively, India...
+                                                ^^^^^^^^^                                             
+
+12.) Line 3, column 429, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+Suggestion: Patna
+...nounced the decision to award him the Bharat Ratna, India's highest civilian award.[12][13] He ...
+                                                ^^^^^                                             
+
+13.) Line 3, column 681, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+... of the year at the ICC awards.[16] In 2012, Tendulkar was nominated to the Rajya Sabha, the upper ...
+                                                ^^^^^^^^^                                             
+
+14.) Line 3, column 712, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+Suggestion: Raj ya
+...[16] In 2012, Tendulkar was nominated to the Rajya Sabha, the upper house of the Parliament of ...
+                                                ^^^^^                                             
+
+15.) Line 3, column 718, Rule ID: MORFOLOGIK_RULE_EN_GB
+Message: Possible spelling mistake found
+Suggestion: Sasha; Sabra
+...n 2012, Tendulkar was nominated to the Rajya Sabha, the upper house of the Parliament of India....
+                                                ^^^^^                                             
+Time: 3353ms for 3 sentences (0.9 sentences/sec)

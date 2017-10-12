@@ -1,0 +1,6 @@
+import sys
+
+print str(sys.argv)
+word_list = sys.argv[1:]
+print ' '.join(word[0] for word in word_list)
+
